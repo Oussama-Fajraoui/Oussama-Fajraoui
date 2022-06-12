@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Oussama Fajraoui 
+- 👋 Hi, I'm Oussama-Fajraoui 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: oussama.fajraoui1@gmail.com
 - ⚡ Fun fact: Octopuses have three hearts
