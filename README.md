@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="center" width="100%" alt="👋 Hi there! I'm Oussama Fajraoui" title="👋 Hi there! I'm Oussama Fajraoui"/>
+ 👋 Hi, I'm Oussama-Fajraoui 
+-🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web developer
+-⚡ Fun fact: Octopuses have three hearts 
 <summary>
   📊 𝙼𝚢 GitHub Stats
 </summary>
