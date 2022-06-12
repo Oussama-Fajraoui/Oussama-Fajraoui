@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Oussama-Fajraoui/Oussama-Fajraoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&show_icons=true&theme=radical)
