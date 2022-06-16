@@ -2,9 +2,9 @@
 -🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web developer<br>
 -⚡ Fun fact: Octopuses have three hearts 
 
-<summary>
-  📊 𝙼𝚢 GitHub Stats
-</summary>
+
+## 📊 𝙼𝚢 GitHub Stats
+
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=radical)
