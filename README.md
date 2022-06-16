@@ -2,9 +2,6 @@
 -🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web developer<br>
 -⚡ Fun fact: Octopuses have three hearts 
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes) 
-
 <summary>
   📊 𝙼𝚢 GitHub Stats
 </summary>
