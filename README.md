@@ -12,8 +12,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Oussama-Fajraoui&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Oussama on LinkedIn" title="Follow Oussama on LinkedIn"/>](https://www.linkedin.com/in/oussama-fajraoui-59436b22b/)<br>
-oussama.fajraoui1@gmail.com
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Oussama on LinkedIn" title="Follow Oussama on LinkedIn"/>](https://www.linkedin.com/in/oussama-fajraoui-59436b22b/)
+[<img src="https://uploads-ssl.webflow.com/60d5a97381523ace9d3c87bb/60f5be90245e28425c022c82_facebook.png" height="40em" align="center"/>](https://www.facebook.com/oussama.fajraouigamer/)
+Email : oussama.fajraoui1@gmail.com
 ## 🌙 I'm 24 Hours 🦉 In Front Of 🖥:
 
 ```text
