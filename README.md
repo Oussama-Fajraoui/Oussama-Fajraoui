@@ -9,7 +9,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=radical)
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&show_icons=true&theme=radical)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&show_icons=true&theme=radical" /></p>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Oussama on LinkedIn" title="Follow Oussama on LinkedIn"/>](https://www.linkedin.com/in/oussama-fajraoui-59436b22b/)<br>
