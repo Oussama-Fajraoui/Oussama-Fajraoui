@@ -8,7 +8,7 @@
 ## 📊 𝙼𝚢 GitHub Stats
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-Fajraoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Oussama-Fajraoui" /></p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=radical)
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Oussama-Fajraoui&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
