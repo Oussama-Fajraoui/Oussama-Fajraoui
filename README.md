@@ -13,7 +13,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-Fajraoui&theme=radical" alt="Oussama-Fajraoui" /></p>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-fajraoui-59436b22b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Oussama-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-fajraoui-59436b22b/)
 [<img src="https://uploads-ssl.webflow.com/60d5a97381523ace9d3c87bb/60f5be90245e28425c022c82_facebook.png" height="40em" align="center"/>](https://www.facebook.com/oussama.fajraouigamer/)<br>
 Email : oussama.fajraoui1@gmail.com
 ## 🌙 I'm 24 Hours 🦉 In Front Of 🖥:
