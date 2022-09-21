@@ -15,7 +15,7 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [![Linkedin Badge](https://img.shields.io/badge/-Oussama-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-fajraoui-59436b22b/)
 [![Mail Badge](https://img.shields.io/badge/-OussamaFajraoui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oussama.fajraoui1@gmail.com)
-[![Web Badge](https://img.shields.io/badge/-OussamaFajraoui-c0392b?style=flat&labelColor=ff2536&logo=steam&logoColor=white)](https://oussama-fajraoui.github.io/My-Website/)
+[![Web Badge](https://img.shields.io/badge/-OussamaFajraoui-001235?style=flat&labelColor=ff2536&logo=steam&logoColor=white)](https://oussama-fajraoui.github.io/My-Website/)
 
 
 ## 🌙 I'm 24 Hours 🦉 In Front Of 🖥:
