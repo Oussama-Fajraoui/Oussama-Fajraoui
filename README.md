@@ -10,11 +10,13 @@
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
 |[![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&hide=Rich%20Text%20Format,scheme,shell,php,css,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-Fajraoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Oussama-Fajraoui" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&show_icons=true&locale=en&theme=radical" alt="Oussama-Fajraoui" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-Fajraoui&theme=radical" alt="Oussama-Fajraoui" /></p>
-
+|GITHUB STREAKS|
+|:---:|
+|[![Oussama's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=Oussama-Fajraoui&theme=radical" alt="Oussama-Fajraoui)]|
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-Fajraoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Oussama-Fajraoui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&show_icons=true&locale=en&theme=radical" alt="Oussama-Fajraoui" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-Fajraoui&theme=radical" alt="Oussama-Fajraoui" /></p>
+ -->
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [![Linkedin Badge](https://img.shields.io/badge/-Oussama-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-fajraoui-59436b22b/)
 [![Mail Badge](https://img.shields.io/badge/-OussamaFajraoui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oussama.fajraoui1@gmail.com)
