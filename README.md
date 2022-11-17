@@ -9,7 +9,7 @@
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
-|[![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&hide=Rich%20Text%20Format,scheme,shell,yaml,haml,php,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|
+|[![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&hide=Rich%20Text%20Format,scheme,shell,php,css,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-Fajraoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Oussama-Fajraoui" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&show_icons=true&locale=en&theme=radical" alt="Oussama-Fajraoui" /></p>
