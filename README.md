@@ -1,10 +1,11 @@
  ## <div align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hi, I'm Oussama-Fajraoui</div>
- 
  <img marginTop="0" align="right" src="https://github.com/2wce/2wce.github.io/blob/develop/src/assets/illustrations/dev.svg" alt="Illustration of Kudakwashe working on his laptop" width=350px height=300px/>
+ 
 - 🖥 𝙵𝚞𝚕𝚕-S𝚝𝚊𝚌𝚔 JavaScript developer<br>
 - 🌱 I’m currently learning ... Flutter,Vue.js, .NET,Redux...<br>
 - 💬 Ask me about ... Anything<br>
 - ⚡ Fun fact: Octopuses have three hearts
+
 
 
 ## 📊 𝙼𝚢 GitHub Stats
