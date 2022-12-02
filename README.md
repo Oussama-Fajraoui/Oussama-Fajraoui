@@ -49,7 +49,11 @@
 </div>
 
 # Visitors:
-![Vitors](https://api.visitorbadge.io/api/VisitorHit?Oussama-Fajraoui=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+<p align='center'>
+   <a href="https://github.com/Oussama-Fajraoui/github-visitors-badge">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=Oussama-Fajraoui&repo=Oussama-Fajraoui&countColor=%237B1E7A" />
+   </a>
+</p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
