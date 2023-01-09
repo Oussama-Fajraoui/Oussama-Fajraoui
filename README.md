@@ -1,4 +1,4 @@
-<img marginTop="0" align="right" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif" alt="Illustration of Kudakwashe working on his laptop" width=350px height=300px/>
+<img marginTop="0" align="right" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Illustration of Kudakwashe working on his laptop" width=350px height=300px/>
 
 ## <div align="center"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">Hi, I'm Oussama-Fajraoui</div>
 
