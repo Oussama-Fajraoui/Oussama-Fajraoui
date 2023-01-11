@@ -11,7 +11,6 @@
 
 
 
-## 📊 𝙼𝚢 GitHub Stats
 
 |GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
