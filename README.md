@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Oussama+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Oussama Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-<a href="https://app.daily.dev/Oussama-Fajraoui"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="Oussama's Dev Card" /></a>
+<a href="https://app.daily.dev/Oussama-Dev"> <img src="https://api.daily.dev/devcards/81d0605de6fc418f9ccf10229a286d0b.png?r=868" width="400" alt="Oussama Fajraoui's Dev Card"/></a>
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
