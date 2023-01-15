@@ -1,23 +1,19 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Oussama+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Oussama Welcome to my Profile! animated typed out">
 <img  src="assests/borderseperator.gif">
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HyunCafe&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
-
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+<a href="https://app.daily.dev/Oussama-Fajraoui"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="Oussama's Dev Card" /></a>
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning Vanilla JavaScript! <br><br><br>
+* 🌳 I’m currently learning React-Native and other Frameworks! <br><br><br>
 
 * 🐾 I’m looking to network and make friends here! <br><br><br>
 
 * 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br><br>
+* ☕ Interest: Cats, Coffee, Sport and Coding. <br><br><br>
 
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+* :octocat: Hobbies: Memes, Anime/Manga, Steam Games, Discord, and Reddit. <br><br>
 
 <h2></h2><br>
 
