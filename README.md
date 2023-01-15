@@ -16,10 +16,25 @@
 
 [![Oussama-Fajraoui's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Oussama-Fajraoui&custom_title=Oussama's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[![Linkedin Badge](https://img.shields.io/badge/-Oussama-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-fajraoui%E2%9C%94-59436b22b/)
-[![Mail Badge](https://img.shields.io/badge/-OussamaFajraoui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oussama.fajraoui1@gmail.com)
-[![Web Badge](https://img.shields.io/badge/-OussamaFajraoui-001235?style=flat&labelColor=ff2536&logo=steam&logoColor=white)](https://oussama-fajraoui.github.io/My-Website/)
+<img src="assests/borderseperator.gif">
+  <h3 align="center">𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/oussama-fajraoui%E2%9C%94-59436b22b/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/Oussama-Fajraoui" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:oussama.fajraoui1@gmail.com" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a>
+    <img align="center" alt="Join Me in Discord " height="50" width="50" src="assests/discordlogo.png"/>
+    <span>Oussama ( ͡° ͜ʖ ͡°)#1695</span>
+</p> 
 
 
 ## 🌙 I'm 24 Hours 🦉 In Front Of 🖥:
