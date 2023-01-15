@@ -7,21 +7,15 @@
 - 💬 Ask me about ... Anything<br>
 - ⚡ Fun fact: Octopuses have three hearts
 
+<div align="center">
+  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Oussama-Fajraoui&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://streak-stats.demolab.com?user=Oussama Fajraoui&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  <img src="https://github-readme-stats-i66v.vercel.app/api?username=Oussama-Fajraoui&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+</div> <br>
 
+[![Oussama-Fajraoui's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Oussama-Fajraoui&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![Oussama's github stats](https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussama-Fajraoui&hide=Rich%20Text%20Format,scheme,shell,php,css,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/Oussama-Fajraoui/github-readme-stats)|
-|GITHUB STREAKS|
-|![Oussama's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=Oussama-Fajraoui&theme=tokyonight)
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oussama-Fajraoui&show_icons=true&locale=en&layout=compact&theme=radical" alt="Oussama-Fajraoui" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Oussama-Fajraoui&show_icons=true&locale=en&theme=radical" alt="Oussama-Fajraoui" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama-Fajraoui&theme=radical" alt="Oussama-Fajraoui" /></p>
- -->
- 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [![Linkedin Badge](https://img.shields.io/badge/-Oussama-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-fajraoui%E2%9C%94-59436b22b/)
 [![Mail Badge](https://img.shields.io/badge/-OussamaFajraoui-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:oussama.fajraoui1@gmail.com)
