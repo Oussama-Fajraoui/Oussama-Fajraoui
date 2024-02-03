@@ -7,7 +7,7 @@
 
 * 🌳 I’m currently learning React-Native and other Frameworks! <br><br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br><br>
+* 🌊 2024 Goals: Contribute more to Open Source projects <br><br><br>
 
 * ☕ Interest: Cats, Coffee, Sport and Coding. <br><br><br>
 
