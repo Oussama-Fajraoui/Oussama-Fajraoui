@@ -5,7 +5,7 @@
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning React-Native and other Frameworks! <br><br><br>
+* 🌳 I’m currently learning AWS and other Cloud services! <br><br><br>
 
 * 🌊 2024 Goals: Contribute more to Open Source projects <br><br><br>
 
