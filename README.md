@@ -7,10 +7,19 @@
 <table width="100%">
   <tr>
     <td valign="top">
+      
       * 🌳 I’m currently learning AWS and other Cloud services! <br>
+
+      
       * 🌊 2024 Goals: Contribute more to Open Source projects <br>
+
+      
       * ☕ Interest: Cats, Coffee, Sport and Coding. <br>
+
+      
       * :octocat: Hobbies: Memes, Anime/Manga, Steam Games, Discord, and Reddit.
+
+      
     </td>
     <td align="right">
       <a href="https://app.daily.dev/oussamadev73">
