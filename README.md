@@ -4,15 +4,22 @@
 
 <h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
 
-<a href="https://app.daily.dev/oussamadev73"><img src="https://api.daily.dev/devcards/v2/nVI6fGL91wdEla6CgDGCu.png?r=v8y" width="350" alt="Oussama Fajraoui's Dev Card"/></a>
-
-* 🌳 I’m currently learning AWS and other Cloud services! <br><br><br>
-
-* 🌊 2024 Goals: Contribute more to Open Source projects <br><br><br>
-
-* ☕ Interest: Cats, Coffee, Sport and Coding. <br><br><br>
-
-* :octocat: Hobbies: Memes, Anime/Manga, Steam Games, Discord, and Reddit. <br><br>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      * 🌳 I’m currently learning AWS and other Cloud services! <br>
+      * 🌊 2024 Goals: Contribute more to Open Source projects <br>
+      * ☕ Interest: Cats, Coffee, Sport and Coding. <br>
+      * :octocat: Hobbies: Memes, Anime/Manga, Steam Games, Discord, and Reddit.
+    </td>
+    <td align="right">
+      <a href="https://app.daily.dev/oussamadev73">
+        <img src="https://api.daily.dev/devcards/v2/nVI6fGL91wdEla6CgDGCu.png?r=v8y" width="350" alt="Oussama Fajraoui's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
+ <br><br>
 
 <h2></h2><br>
 <img  src="assests/borderseperator.gif">
