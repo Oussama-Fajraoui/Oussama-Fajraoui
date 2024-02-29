@@ -7,12 +7,10 @@
 <table width="100%">
   <tr>
     <td valign="top">
-<div style="line-height: 5.5;">
-  * 🌳 I’m currently learning AWS and other Cloud services! <br>
-  * 🌊 2024 Goals: Contribute more to Open Source projects <br>
-  * ☕ Interest: Cats, Coffee, Sport and Coding. <br>
-  * :octocat: Hobbies: Memes, Anime/Manga, Steam Games, Discord, and Reddit.
-</div>
+* 🌳 I’m currently learning AWS and other Cloud services! <br><br>
+* 🌊 2024 Goals: Contribute more to Open Source projects <br><br>
+* ☕ Interest: Cats, Coffee, Sport and Coding. <br><br>
+* :octocat: Hobbies: Memes, Anime/Manga, Steam Games, Discord, and Reddit. <br><br>
     </td>
     <td align="right">
       <a href="https://app.daily.dev/oussamadev73">
