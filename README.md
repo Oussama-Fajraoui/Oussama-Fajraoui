@@ -7,7 +7,7 @@
 <table width="100%">
   <tr>
     <td valign="top">
-* 🌊 2026 Goals: Contribute more to Open Source projects <br><br><br><br>
+* 🌊 Goals: Contribute more to Open Source projects <br><br><br><br>
 * ☕ Interest: Cats, Coffee, Sport and Coding. <br><br><br><br>
 * :octocat: Hobbies: Memes, Anime/Manga, Steam Games, Discord, and Reddit.
     </td>
